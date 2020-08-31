@@ -1,2 +1,3 @@
-# reverse_geo_id
-This script was developed for a COVID-19 related study at UW to help recovery address information from GeoIDs (latitude and longitude)
+This script was developed for a COVID-19 related study at UW to help recovery address information from GeoIDs (latitude and longitude). Simply upload a csv file with two columns: "Location Latitude" and "Location Longitude". You may also wish to include additional columns such as a unique ID to link the results back to your dataset. I recommend against uploading any private information onto Google Colab. The best pracitice is to save a copy of this code into your own Google Drive. *Be aware of any laws governing how and where your dataset can be uploaded.
+
+For any questions please email us at: info@kaianalytics.com
